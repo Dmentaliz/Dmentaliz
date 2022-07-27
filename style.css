@@ -9,7 +9,7 @@
     padding-inline-start: 5px
 }
 
-.navbarItem{
+#navbarList li{
     color: azure;
     background: darkgreen;
     display: inline;
